@@ -97,7 +97,7 @@ export default function Component() {
       <Card className="w-full max-w-2xl mx-auto">
         <CardHeader>
           <CardTitle>Feedback Form</CardTitle>
-          <CardDescription>We'd love to hear your thoughts!</CardDescription>
+          <CardDescription>We&apos;d love to hear your thoughts!</CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">
